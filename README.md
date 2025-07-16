@@ -26,7 +26,15 @@ My approach to learning is by doing, observing, and teaching others — and I en
 <br>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/engg.devanshseth/?hl=en)  &emsp;  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-seth-0b6a07264/)  &emsp;  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.devanshseth.engg0072@gmail.com) 
+<p align="left">
+<a href="https://linkedin.com/in/devansh-seth-0b6a07264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-seth-0b6a07264" height="30" width="40" /></a> &emsp;
+<a href="https://instagram.com/engg.devanshseth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engg.devanshseth" height="30" width="40" /></a> &emsp;
+<a href="https://codeforces.com/profile/devanshseth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devanshseth" height="30" width="40" /></a> &emsp;
+<a href="https://www.leetcode.com/devansh_seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devansh_seth" height="30" width="40" /></a> &emsp;
+<a href="https://auth.geeksforgeeks.org/user/devansh_seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devansh_seth" height="30" width="40" /></a> &emsp;
+</p>
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.devanshseth.engg0072@gmail.com) 
 
 <br>
 
