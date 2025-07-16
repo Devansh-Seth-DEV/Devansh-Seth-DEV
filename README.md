@@ -1,4 +1,10 @@
-# 💫 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Seth-DEV&theme=transparent&hide_title=true&hide_border=false&layout=compact" alt="Most Used Languages" />
+
+
+
+# Hi, I'm Devansh Seth 👋
+<img align="left" src="https://komarev.com/ghpvc/?username=Devansh-Seth-DEV" alt="Devansh-Seth-DEV" /> <br>
+
 As a passionate and curious **B.Tech Computer Science Engineering student with a specialization in IoT, Cybersecurity, and Blockchain**, I’ve always believed in learning by doing and teaching others. Whether it's system design, backend development, or building immersive user experiences in iOS, I love solving real-world problems through tech.
 
 Recently, I led a 9-member team as a **Scrum Master** and **Backend Developer** during my **Infosys internship**. We developed **InFleet Express**, a full-stack **Fleet Management iOS app** in 1 month — designed using Supabase, Swift, and geofencing-based trip handling.
@@ -35,9 +41,9 @@ My approach to learning is by doing, observing, and teaching others — and I en
 <br>
 
 # 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Devansh-Seth-DEV&theme=dark&hide_border=false)
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh-Seth-DEV&theme=transparent&hide_border=false" alt="GitHub Streak" />
 
-![](https://github-readme-stats.vercel.app/api?username=Devansh-Seth-DEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)   &emsp;  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Seth-DEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img aligh="right" src="https://github-readme-stats.vercel.app/api?username=Devansh-Seth-DEV&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" /> <br>
 
 
 <br>
