@@ -15,11 +15,9 @@ What sets me apart is my blend of:
 - Leadership & Agile project handling using Jira & sprint planning.
 - A deep love for C++, Python, and system-level understanding.
 
-I'm also developing a mental wellness a virtual companion app, combining role-play, gamified learning paths, and behavioral personalization — helping young adults grow socially and emotionally.
-
 I’m always open to networking, mentorship, and opportunities that challenge me to level up.
 
-Currently I am actively maintain a GitHub repository — [DSA-Playground](https://github.com/Devansh-Seth-DEV/DSA-Playground) — where I consistently solve and implement advanced DSA concepts, including handcrafted problems and reusable segment trees.
+I've made a DSA Learning repository — [DSA-Playground](https://github.com/Devansh-Seth-DEV/DSA-Playground) — where I solve and implement advanced DSA concepts, including handcrafted problems and reusable segment trees.
 
 My approach to learning is by doing, observing, and teaching others — and I enjoy turning complex ideas into practical, real-world tools.
 
@@ -51,21 +49,6 @@ My approach to learning is by doing, observing, and teaching others — and I en
 # 📊 GitHub Stats
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh-Seth-DEV&theme=transparent&hide_border=false" alt="GitHub Streak" />
-</p>
-<br clear="both"/>
-
-<br>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Devansh-Seth-DEV&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
-</p>
-<br clear="both"/>
-
-<br>
-
-## 🏆 GitHub Trophies
-<p>
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=Devansh-Seth-DEV&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /> 
 </p>
 <br clear="both"/>
 
