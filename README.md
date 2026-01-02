@@ -131,13 +131,13 @@ My approach to learning is by doing, observing, and teaching others — and I en
 
 <table border="0">
   <tr>
-    <td width="33%">
+    <td width="33.33%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devansh-Seth-DEV&theme=nord_dark" width="100%" />
     </td>
-    <td width="33%">
+    <td width="33.33%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devansh-Seth-DEV&theme=nord_dark" width="100%" />
     </td>
-    <td width="33%">
+    <td width="33.33%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fffaraz&theme=nord_dark" width="100%" />
     </td>
   </tr>
