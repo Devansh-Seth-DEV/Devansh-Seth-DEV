@@ -1,6 +1,6 @@
 # Hi, I'm Devansh Seth 👋
 
-<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devansh-Seth-DEV&theme=transparent&hide_title=true&hide_border=false&layout=compact&langs_count=8" alt="Most Used Languages" />
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devansh-Seth-DEV&theme=nord_dark" alt="Top Languages By Repo" />
 
 <img align="left" src="https://komarev.com/ghpvc/?username=Devansh-Seth-DEV" alt="Devansh-Seth-DEV" /> <br>
 
@@ -16,7 +16,6 @@ What sets me apart is my blend of:
 
 I’m always open to networking, mentorship, and opportunities that challenge me to level up.
 My approach to learning is by doing, observing, and teaching others — and I enjoy turning complex ideas into practical, real-world tools.
-
 
 ## 🌐 Socials
 <p align="left">
@@ -118,6 +117,28 @@ My approach to learning is by doing, observing, and teaching others — and I en
       <a href="https://github.com/Devansh-Seth-DEV/LexiC">
         <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white" alt="View Repo">
       </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devansh-Seth-DEV&theme=nord_dark" width="100%" />
+</p>
+
+<table border="0">
+  <tr>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devansh-Seth-DEV&theme=nord_dark" width="100%" />
+    </td>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devansh-Seth-DEV&theme=nord_dark" width="100%" />
+    </td>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fffaraz&theme=nord_dark" width="100%" />
     </td>
   </tr>
 </table>
