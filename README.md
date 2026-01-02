@@ -42,6 +42,50 @@ My approach to learning is by doing, observing, and teaching others — and I en
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for&logo=postgresql&logoColor=white)   &emsp;  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for&logo=supabase&logoColor=white)   &emsp;  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for&logo=jira&logoColor=white)   &emsp;  ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-Basics-0078D7?style=for)
 
+<br>
+
+## 🚀 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ SerDeLite</h3>
+      <p align="left">
+        <img src="https://img.shields.io/github/v/release/Devansh-Seth-DEV/SerDeLite?label=version&color=blue" alt="Version">
+        <img src="https://img.shields.io/github/downloads/Devansh-Seth-DEV/SerDeLite/total?color=brightgreen&logo=github&label=downloads" alt="Downloads">
+        <img src="https://img.shields.io/github/license/Devansh-Seth-DEV/SerDeLite?color=blue" alt="License">
+        <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-lightgrey.svg" alt="OS">
+      </p>
+      <p>A high-performance, <b>zero-allocation</b> C++11 serialization library designed for real-time systems and game engines.</p>
+      <ul>
+        <li><b>17.6M ops/sec</b> throughput with sub-60ns latency.</li>
+        <li>Purely stack-based memory management.</li>
+        <li>Verified linear scaling for complex nested data.</li>
+      </ul>
+      <a href="https://github.com/Devansh-Seth-DEV/SerDeLite">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+     <h3>🔍 LexiC</h3>
+      <p align="left">
+        <img src="https://img.shields.io/github/license/Devansh-Seth-DEV/LexiC?color=blue" alt="License">
+        <img src="https://img.shields.io/badge/OS-Linux%20%7C%20macOS-lightgrey?logo=linux&logoColor=white" alt="OS">
+      </p>
+      <p>A modular <b>Lexical Analyzer</b> for the C programming language that tokenizes source code into structured lexical units.</p>
+      <ul>
+        <li>Automated <b>log generation</b> and Doxygen documentation.</li>
+        <li>Binary-safe <b>File I/O (LexerIO)</b> for chunked processing.</li>
+        <li>Comprehensive classification for keywords, literals, and preprocessors.</li>
+      </ul>
+      <a href="https://github.com/Devansh-Seth-DEV/LexiC">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
+
 
 [![](https://visitcount.itsvg.in/api?id=Devansh-Seth-DEV&icon=0&color=0)](https://visitcount.itsvg.in)
