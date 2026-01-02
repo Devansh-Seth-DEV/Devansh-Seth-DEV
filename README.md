@@ -1,8 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Seth-DEV&theme=transparent&hide_title=true&hide_border=false&layout=compact" alt="Most Used Languages" />
-
-
-
 # Hi, I'm Devansh Seth 👋
+
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devansh-Seth-DEV&theme=transparent&hide_title=true&hide_border=false&layout=compact&langs_count=8" alt="Most Used Languages" />
+
 <img align="left" src="https://komarev.com/ghpvc/?username=Devansh-Seth-DEV" alt="Devansh-Seth-DEV" /> <br>
 
 As a passionate and curious **B.Tech Computer Science Engineering student with a specialization in IoT, Cybersecurity, and Blockchain**, I’ve always believed in learning by doing and teaching others. Whether it's system design, backend development, or building immersive user experiences in iOS, I love solving real-world problems through tech.
@@ -42,15 +41,6 @@ My approach to learning is by doing, observing, and teaching others — and I en
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-orange?style=for&logo=swift&logoColor=white)  &emsp;  ![Python](https://img.shields.io/badge/python-3670A0?style=for&logo=python&logoColor=ffdd54)  &emsp;  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for&logo=git&logoColor=white)  &emsp;  ![Bash](https://img.shields.io/badge/Bash-121011?style=for&logo=gnu-bash&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for&logo=postgresql&logoColor=white)   &emsp;  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for&logo=supabase&logoColor=white)   &emsp;  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for&logo=jira&logoColor=white)   &emsp;  ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-Basics-0078D7?style=for)
-
-
-<br>
-
-# 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh-Seth-DEV&theme=transparent&hide_border=false" alt="GitHub Streak" />
-</p>
-<br clear="both"/>
 
 ---
 
