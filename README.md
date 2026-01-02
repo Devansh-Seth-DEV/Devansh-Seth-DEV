@@ -74,7 +74,7 @@ My approach to learning is by doing, observing, and teaching others — and I en
         <li><b>Graph Suite:</b> Optimized Dijkstra, Kosaraju’s SCC, and MST templates.</li>
       </ul>
       <a href="https://github.com/Devansh-Seth-DEV/DSA-Playground">
-        <img src="https://img.shields.io/badge/Explore_Playground-181717?style=plastic&logo=github&logoColor=white" alt="Explore Repo">
+        <img src="https://img.shields.io/badge/Explore_Playground-181717?style=plastic&logo=github&logoColor=white&color=purple" alt="Explore Repo">
       </a>
     </td>
   </tr>
@@ -99,7 +99,7 @@ My approach to learning is by doing, observing, and teaching others — and I en
         <li>Verified linear scaling for complex nested data.</li>
       </ul>
       <a href="https://github.com/Devansh-Seth-DEV/SerDeLite">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white" alt="View Repo">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white&color=purple" alt="View Repo">
       </a>
     </td>
     <td width="50%" valign="top">
@@ -115,7 +115,7 @@ My approach to learning is by doing, observing, and teaching others — and I en
         <li>Comprehensive classification for keywords, literals, and preprocessors.</li>
       </ul>
       <a href="https://github.com/Devansh-Seth-DEV/LexiC">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white" alt="View Repo">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white&color=purple" alt="View Repo">
       </a>
     </td>
   </tr>
