@@ -15,12 +15,8 @@ What sets me apart is my blend of:
 - A deep love for C++, Python, and system-level understanding.
 
 I’m always open to networking, mentorship, and opportunities that challenge me to level up.
-
-I've made a DSA Learning repository — [DSA-Playground](https://github.com/Devansh-Seth-DEV/DSA-Playground) — where I solve and implement advanced DSA concepts, including handcrafted problems and reusable segment trees.
-
 My approach to learning is by doing, observing, and teaching others — and I enjoy turning complex ideas into practical, real-world tools.
 
-<br>
 
 ## 🌐 Socials
 <p align="left">
@@ -49,7 +45,6 @@ My approach to learning is by doing, observing, and teaching others — and I en
   </a> &emsp;
 </p>
 
-<br>
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for&logo=c&logoColor=white)  &emsp;  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for&logo=c%2B%2B&logoColor=white)  &emsp;  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for&logo=openjdk&logoColor=white)  &emsp;  ![Swift](https://img.shields.io/badge/Swift-orange?style=for&logo=swift&logoColor=white)
@@ -58,7 +53,35 @@ My approach to learning is by doing, observing, and teaching others — and I en
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for&logo=postgresql&logoColor=white)   &emsp;  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for&logo=supabase&logoColor=white)   &emsp;  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for&logo=jira&logoColor=white)   &emsp;  ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-Basics-0078D7?style=for)
 
-<br>
+
+## 🧪 Algorithm Laboratory
+
+<table border="0">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>
+        🚀 <a href="https://github.com/Devansh-Seth-DEV/DSA-Playground">DSA-Playground</a>
+      </h3>
+      <p>
+        A comprehensive repository for mastering Data Structures and Algorithms with a focus on <b>high-performance templates</b> and competitive programming.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square" alt="Status">
+        <img src="https://img.shields.io/badge/Implementations-Trees_%7C_Graphs_%7C_DP-orange?style=flat-square" alt="Category">
+        <img src="https://img.shields.io/badge/Optimized-vEB_Layout-blue?style=flat-square" alt="Optimization">
+      </p>
+      <ul>
+        <li><b>Segment Tree:</b> Industrial-grade template with <b>van Emde Boas (vEB) layout</b> for 10-30% faster cache-local queries.</li>
+        <li><b>Self-Adjusting Trees:</b> Complete implementation of <b>Splay Trees</b> with $O(\log n)$ amortized operations.</li>
+        <li><b>CP31-Sheet:</b> Systematically solving curated problems (800-1900 difficulty) from Codeforces.</li>
+        <li><b>Graph Suite:</b> Optimized Dijkstra, Kosaraju’s SCC, and MST templates.</li>
+      </ul>
+      <a href="https://github.com/Devansh-Seth-DEV/DSA-Playground">
+        <img src="https://img.shields.io/badge/Explore_Playground-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repo">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
@@ -100,8 +123,3 @@ My approach to learning is by doing, observing, and teaching others — and I en
     </td>
   </tr>
 </table>
-
----
-
-
-[![](https://visitcount.itsvg.in/api?id=Devansh-Seth-DEV&icon=0&color=0)](https://visitcount.itsvg.in)
