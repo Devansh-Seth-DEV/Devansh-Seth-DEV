@@ -1,21 +1,36 @@
 # Hi, I'm Devansh Seth 👋
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devansh-Seth-DEV&theme=nord_dark" alt="Top Languages By Repo" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Devansh-Seth-DEV&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
+</p>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=Devansh-Seth-DEV" alt="Devansh-Seth-DEV" /> <br>
-
-As a passionate and curious **B.Tech Computer Science Engineering student with a specialization in IoT, Cybersecurity, and Blockchain**, I’ve always believed in learning by doing and teaching others. Whether it's system design, backend development, or building immersive user experiences in iOS, I love solving real-world problems through tech.
-
-Recently, I led a 9-member team as a **Scrum Master** and **Backend Developer** during my **Infosys internship**. We developed **InFleet Express**, a full-stack **Fleet Management iOS app** in 1 month — designed using Supabase, Swift, and geofencing-based trip handling.
-
-What sets me apart is my blend of:
-- Backend Development using Supabase, SQL, and serverless logic.
-- iOS App Development with Swift, custom data models, and clean architecture.
-- Leadership & Agile project handling using Jira & sprint planning.
-- A deep love for C++, Python, and system-level understanding.
-
-I’m always open to networking, mentorship, and opportunities that challenge me to level up.
-My approach to learning is by doing, observing, and teaching others — and I enjoy turning complex ideas into practical, real-world tools.
+<table border="0">
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        🚀 <b>B.Tech Computer Science Engineer</b> specializing in <b>IoT, Cybersecurity, and Blockchain</b>. 
+        I thrive at the intersection of system design, backend architecture, and immersive iOS experiences.
+      </p>
+      <p>
+        🏢 Recently served as <b>Scrum Master & Backend Lead</b> at <b>Infosys</b>, steering a 9-member team to build <i>InFleet Express</i>—a high-performance Fleet Management system using <b>Swift, Supabase, and Geofencing</b>.
+      </p>
+      <p>
+        <b>Core Strengths:</b>
+        <ul>
+          <li><b>Backend:</b> Supabase, SQL, Serverless Architectures.</li>
+          <li><b>Mobile:</b> iOS (Swift), Clean Architecture, Custom Data Models.</li>
+          <li><b>Leadership:</b> Agile/Scrum, Jira, Sprint Planning.</li>
+        </ul>
+      </p>
+      <p><i>"I turn complex ideas into practical, real-world tools through relentless doing and observing."</i></p>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devansh-Seth-DEV&theme=nord_dark" width="100%" alt="Top Languages" />
+      <p style="margin: 10px 0;"></p>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devansh-Seth-DEV&theme=nord_dark" width="100%" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect with Me
 
@@ -68,7 +83,7 @@ My approach to learning is by doing, observing, and teaching others — and I en
   </tr>
 </table>
 
-## 🧪 Algorithmic Hub
+## 🧪 DSA Foundation & Templates
 
 <table border="0">
   <tr>
@@ -119,7 +134,7 @@ My approach to learning is by doing, observing, and teaching others — and I en
         <li>Verified linear scaling for complex nested data.</li>
       </ul>
       <a href="https://github.com/Devansh-Seth-DEV/SerDeLite">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white&color=purple" alt="View Repo">
+        <img src="https://img.shields.io/badge/Explore_SerDeLite-181717?style=plastic&logo=github&logoColor=white&color=purple" alt="View Repo">
       </a>
     </td>
     <td width="50%" valign="top">
@@ -136,7 +151,7 @@ My approach to learning is by doing, observing, and teaching others — and I en
         <li>Comprehensive classification for keywords, literals, and preprocessors.</li>
       </ul>
       <a href="https://github.com/Devansh-Seth-DEV/LexiC">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white&color=purple" alt="View Repo">
+        <img src="https://img.shields.io/badge/Explore_LexiC-181717?style=plastic&logo=github&logoColor=white&color=purple" alt="View Repo">
       </a>
     </td>
   </tr>
@@ -150,15 +165,12 @@ My approach to learning is by doing, observing, and teaching others — and I en
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devansh-Seth-DEV&theme=nord_dark" width="100%" />
 </p>
 
-<table border="0">
+<table border="0" align="center">
   <tr>
-    <td width="33.33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devansh-Seth-DEV&theme=nord_dark" width="100%" />
-    </td>
-    <td width="33.33%">
+    <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devansh-Seth-DEV&theme=nord_dark" width="100%" />
     </td>
-    <td width="33.33%">
+    <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fffaraz&theme=nord_dark" width="100%" />
     </td>
   </tr>
