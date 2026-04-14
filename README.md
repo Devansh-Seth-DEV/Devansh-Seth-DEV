@@ -32,6 +32,40 @@
   </tr>
 </table>
 
+## Professional Development <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Capgemini_Logo.svg/1280px-Capgemini_Logo.svg.png" height="30" align=left justify=bottom>
+
+<table border="0">
+  <tr>
+    <td width="100%" valign="top">
+      <p align="left">
+        <img src="https://img.shields.io/badge/Capgemini-Training_Completed-0070AD?style=flat&logo=capgemini&logoColor=white" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Stack-Enterprise_Java_%7C_Spring_Boot-orange?style=flat" />
+      </p>
+      <p>
+        Successfully completed an intensive engineering training program focused on building scalable, enterprise-grade backend systems.
+      </p>
+      <ul>
+        <li><b>Advanced Java:</b> Mastered <b>OOPs, Exception Handling, File I/O,</b> and the <b>Reflection API</b> for dynamic code execution.</li>
+        <li><b>Persistence Layer:</b> Deep-dive into <b>JDBC, Hibernate, and Spring Data JPA</b> for robust database management.</li>
+        <li><b>Spring Ecosystem:</b> Hands-on experience with <b>Spring Core, Spring Boot,</b> and <b>RESTful API</b> design.</li>
+        <li><b>DevOps Integration:</b> Implemented CI/CD pipelines using <b>Jenkins</b> for automated build and deployment.</li>
+        <li><b>Capstone Project:</b> Collaborated in an Agile team to develop a full-stack <b>Spring Boot Inventory System</b>, handling complex business logic and data integrity.</li>
+      </ul>
+      <p align="left">
+        <b>Project Repositories:</b><br><br>
+        <a href="https://github.com/Devansh-Seth-DEV/BookInventoryManagement">
+          <img src="https://img.shields.io/badge/Explore_Backend-181717?style=plastic&logo=github&logoColor=white&color=0070AD" alt="Backend Repo">
+        </a>
+        &nbsp;
+        <a href="https://github.com/Devansh-Seth-DEV/BookInventoryManagement-Frontend-Thymleaf">
+          <img src="https://img.shields.io/badge/Explore_Frontend-181717?style=plastic&logo=github&logoColor=white&color=2F8D46" alt="Frontend Repo">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -50,35 +84,39 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="28%" valign="top">
+    <td width="30%" valign="top">
       <h3>🚀 Languages</h3>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+      <p style="margin: 2px 0;"></p>
+      <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white" />
+      <p style="margin: 2px 0;"></p>
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
       <p style="margin: 2px 0;"></p>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
       <p style="margin: 2px 0;"></p>
-      <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white" />
-      <p style="margin: 2px 0;"></p>
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-      <p style="margin: 2px 0;"></p>
       <img src="https://img.shields.io/badge/x86_Assembly-Basics-0078D7?style=flat" />
     </td>
-    <td width="45%" valign="top">
-      <h3>📱 Mobile & Frameworks</h3>
+    <td width="40%" valign="top">
+      <h3>🏗️ Frameworks & Backend</h3>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <p style="margin: 2px 0;"></p>
+      <img src="https://img.shields.io/badge/Hibernate/JPA-59666C?style=flat&logo=hibernate&logoColor=white" />
+      <p style="margin: 2px 0;"></p>
       <img src="https://img.shields.io/badge/SwiftUI-orange?style=flat&logo=swift&logoColor=white" />
       <p style="margin: 2px 0;"></p>
-      <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-      <p style="margin: 2px 0;"></p>
-      <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
     </td>
     <td valign="top">
-      <h3>🛠️ Tools</h3>
+      <h3>🛠️ Tools & Databases</h3>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+      <p style="margin: 2px 0;"></p>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <p style="margin: 2px 0;"></p>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+      <p style="margin: 2px 0;"></p>
       <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
       <p style="margin: 2px 0;"></p>
-      <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
-      <p style="margin: 2px 0;"></p>
-      <img src="https://img.shields.io/badge/Agile-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-      <p style="margin: 2px 0;"></p>
-      <img src="https://img.shields.io/badge/OS-Linux%20%7C%20macOS-lightgrey?style=flat&logo=linux" />
+      <img src="https://img.shields.io/badge/Bash/Agile-121011?style=flat&logo=gnu-bash&logoColor=white" />
     </td>
   </tr>
 </table>
