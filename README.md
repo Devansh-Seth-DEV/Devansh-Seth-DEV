@@ -53,13 +53,17 @@
         <li><b>Capstone Project:</b> Collaborated in an Agile team to develop a full-stack <b>Spring Boot Inventory System</b>, handling complex business logic and data integrity.</li>
       </ul>
       <p align="left">
-        <b>Project Repositories:</b><br><br>
+        <b>Project Hub & Learning Resources:</b><br><br>
+        <a href="https://github.com/Devansh-Seth-DEV/CapgeminiTraining">
+          <img src="https://img.shields.io/badge/Training_Labs-181717?style=plastic&logo=github&logoColor=white&color=6e5494" alt="Training Repo">
+        </a>
+        &nbsp;
         <a href="https://github.com/Devansh-Seth-DEV/BookInventoryManagement">
-          <img src="https://img.shields.io/badge/Explore_Backend-181717?style=plastic&logo=github&logoColor=white&color=0070AD" alt="Backend Repo">
+          <img src="https://img.shields.io/badge/Inventory_Backend-181717?style=plastic&logo=github&logoColor=white&color=0070AD" alt="Backend Repo">
         </a>
         &nbsp;
         <a href="https://github.com/Devansh-Seth-DEV/BookInventoryManagement-Frontend-Thymleaf">
-          <img src="https://img.shields.io/badge/Explore_Frontend-181717?style=plastic&logo=github&logoColor=white&color=2F8D46" alt="Frontend Repo">
+          <img src="https://img.shields.io/badge/Inventory_UI-181717?style=plastic&logo=github&logoColor=white&color=2F8D46" alt="Frontend Repo">
         </a>
       </p>
     </td>
