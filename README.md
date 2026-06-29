@@ -12,11 +12,12 @@
         I thrive at the intersection of system design, backend architecture, and immersive iOS experiences.
       </p>
       <p>
-        🏢 Recently served as <b>Scrum Master & Backend Lead</b> at <b>Infosys</b>, steering a 9-member team to build <i>InFleet Express</i>—a high-performance Fleet Management system using <b>Swift, Supabase, and Geofencing</b>.
+        🏢 I served as <b>Scrum Master & Backend Lead</b> at <b>Infosys</b>, steering a 9-member team to build <i>InFleet Express</i>—a high-performance Fleet Management system using <b>Swift, Supabase, and Geofencing</b>.
       </p>
       <p>
         <b>Core Strengths:</b>
         <ul>
+          <li><b>Business Process Management (BPM):</b> Pega Platform.</li>
           <li><b>Backend:</b> Supabase, SQL, Serverless Architectures.</li>
           <li><b>Mobile:</b> iOS (Swift), Clean Architecture, Custom Data Models.</li>
           <li><b>Leadership:</b> Agile/Scrum, Jira, Sprint Planning.</li>
@@ -38,6 +39,8 @@
   <tr>
     <td width="100%" valign="top">
       <p align="left">
+        <img src="https://img.shields.io/badge/Pega-Certified_System_Architect_(PCSA)-295296?style=flat&logo=pegasystems&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/Capgemini-Training_Completed-0070AD?style=flat&logo=capgemini&logoColor=white" />
         &nbsp;
         <img src="https://img.shields.io/badge/Stack-Enterprise_Java_%7C_Spring_Boot-orange?style=flat" />
@@ -46,6 +49,7 @@
         Successfully completed an intensive engineering training program focused on building scalable, enterprise-grade backend systems.
       </p>
       <ul>
+        <li><b>Pega Platform:</b> Certified System Architect (PCSA) with a <b>91% score</b>. Experienced in designing case types, managing data relationships, configuring security, and automating enterprise business processes (BPM).</li>
         <li><b>Advanced Java:</b> Mastered <b>OOPs, Exception Handling, File I/O,</b> and the <b>Reflection API</b> for dynamic code execution.</li>
         <li><b>Persistence Layer:</b> Deep-dive into <b>JDBC, Hibernate, and Spring Data JPA</b> for robust database management.</li>
         <li><b>Spring Ecosystem:</b> Hands-on experience with <b>Spring Core, Spring Boot,</b> and <b>RESTful API</b> design.</li>
@@ -54,6 +58,10 @@
       </ul>
       <p align="left">
         <b>Project Hub & Learning Resources:</b><br><br>
+        <a href="https://accounts.pega.com/profile/DevanshS17780739">
+          <img src="https://img.shields.io/badge/Pega_Profile-295296?style=plastic&logo=pegasystems&logoColor=white" alt="Pega Profile">
+        </a>
+        &nbsp;
         <a href="https://github.com/Devansh-Seth-DEV/CapgeminiTraining">
           <img src="https://img.shields.io/badge/Training_Labs-181717?style=plastic&logo=github&logoColor=white&color=6e5494" alt="Training Repo">
         </a>
@@ -102,6 +110,8 @@
     </td>
     <td width="40%" valign="top">
       <h3>🏗️ Frameworks & Backend</h3>
+      <img src="https://img.shields.io/badge/Pega_BPM-295296?style=flat&logo=pegasystems&logoColor=white" />
+      <p style="margin: 2px 0;"></p>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
       <p style="margin: 2px 0;"></p>
       <img src="https://img.shields.io/badge/Hibernate/JPA-59666C?style=flat&logo=hibernate&logoColor=white" />
